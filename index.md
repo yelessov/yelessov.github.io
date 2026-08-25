@@ -16,7 +16,8 @@ An end-to-end data engineering and exploratory data analysis (EDA) pipeline proc
 * **Phase 2 (Python):** Executed advanced EDA using Pandas and Seaborn. Applied `.cat.codes` to numerize geographic data and generated a master correlation heatmap.
 * **Business Insight:** Proved zero mathematical correlation between nightly price and review ratings, demonstrating that price does not dictate guest satisfaction in the NYC market.
 
-*(Add your Seaborn heatmap screenshot here by dragging the image into the GitHub text editor)*
+<img width="945" height="767" alt="image" src="https://github.com/user-attachments/assets/3310d84a-4727-4425-aca9-564dc63c05e7" />
+
 
 ---
 
@@ -29,4 +30,7 @@ A comprehensive business intelligence project analyzing real-world transactional
 * **Data Visualization (Tableau):** Designed a dynamic dashboard to track operational KPIs, visualize geographic sales distributions, and identify seasonal purchasing trends.
 * **Business Insight:** Delivered a streamlined reporting tool that allows management to instantly identify top-performing product categories and geographic revenue drivers.
 
-*(Add your Tableau dashboard screenshot here by dragging the image into the GitHub text editor)*
+<img width="1709" height="797" alt="image" src="https://github.com/user-attachments/assets/950b8fc8-b47a-4b63-8f08-74cbe1ee659d" />
+
+
+theme: cayman
