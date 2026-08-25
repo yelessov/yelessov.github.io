@@ -32,7 +32,7 @@ An end-to-end data engineering and exploratory data analysis (EDA) pipeline proc
 ---
 
 ### 🛒 Brazilian E-Commerce Performance (SQL & Tableau)
-**[View GitHub Repository](https://github.com/yelessov/SQL_Project_Brazilian_E-commerce)**
+**[View GitHub Repository](https://github.com/yelessov/SQL_Project_Brazilian_E-commerce)** &nbsp; • &nbsp; **[Live Interactive Dashboard ↗](https://public.tableau.com/app/profile/abylkaiyr.yelessov/viz/Ecommerce_Visualisation1/BrazilianE-CommercePerformanceOlist)**
 
 A comprehensive business intelligence project analyzing real-world transactional data to track revenue, delivery logistics, and customer satisfaction.
 * **The Objective:** To build an interactive, high-level reporting dashboard for non-technical e-commerce stakeholders.
