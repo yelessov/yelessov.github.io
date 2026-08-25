@@ -1,5 +1,5 @@
 
-**Data Analyst** | [LinkedIn](https://www.linkedin.com/in/yelessov/) | [GitHub](https://github.com/yelessov) | [Email](mailto:yelessov@gmail.com) | [Resume (PDF)](https://github.com/yelessov/Yelessov_cv/blob/main/cv_abu%20(1).pdf)
+**[LinkedIn](https://www.linkedin.com/in/yelessov/)** &nbsp; | &nbsp; **[GitHub](https://github.com/yelessov)** &nbsp; | &nbsp; **[Email](mailto:yelessov@gmail.com)** &nbsp; | &nbsp; **[Resume (PDF)](https://github.com/yelessov/Yelessov_cv/blob/main/cv_abu%20(1).pdf](#)**
 
 Welcome to my portfolio. I specialize in building end-to-end data pipelines, turning complex, messy datasets into clean, actionable business insights using SQL, Python, and Tableau.
 
