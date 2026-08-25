@@ -32,5 +32,3 @@ A comprehensive business intelligence project analyzing real-world transactional
 
 <img width="1709" height="797" alt="image" src="https://github.com/user-attachments/assets/950b8fc8-b47a-4b63-8f08-74cbe1ee659d" />
 
-
-theme: cayman
