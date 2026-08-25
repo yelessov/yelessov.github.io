@@ -17,7 +17,7 @@ An end-to-end data engineering and exploratory data analysis (EDA) pipeline proc
 * **Phase 2 (Python):** Executed advanced EDA using Pandas and Seaborn. Applied `.cat.codes` to numerize geographic data and generated a master correlation heatmap.
 * **Business Insight:** Proved zero mathematical correlation between nightly price and review ratings, demonstrating that price does not dictate guest satisfaction in the NYC market.
 
-<img width="945" height="767" alt="image" src="https://github.com/user-attachments/assets/3310d84a-4727-4425-aca9-564dc63c05e7" />
+![NYC Airbnb Correlation Heatmap](https://github.com/user-attachments/assets/3310d84a-4727-4425-aca9-564dc63c05e7)
 
 
 ---
@@ -31,7 +31,7 @@ A comprehensive business intelligence project analyzing real-world transactional
 * **Data Visualization (Tableau):** Designed a dynamic dashboard to track operational KPIs, visualize geographic sales distributions, and identify seasonal purchasing trends.
 * **Business Insight:** Delivered a streamlined reporting tool that allows management to instantly identify top-performing product categories and geographic revenue drivers.
 
-<img width="3420" height="1626" alt="Brazilian E-Commerce Performance (Olist)" src="https://github.com/user-attachments/assets/96b08d11-ac28-402c-897f-8c8fa65568d8" />
+![Brazilian E-Commerce Performance (Olist)](https://github.com/user-attachments/assets/96b08d11-ac28-402c-897f-8c8fa65568d8)
 
 
 
