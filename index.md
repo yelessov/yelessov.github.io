@@ -1,15 +1,20 @@
 
-# Abylkaiyr Yelessov
-**Data Analyst** | [LinkedIn](https://www.linkedin.com/in/yelessov/) | [GitHub](https://github.com/yelessov)
+**Data Analyst** | [LinkedIn](https://www.linkedin.com/in/yelessov/) | [GitHub](https://github.com/yelessov) | [Email](mailto:yelessov@gmail.com) | [Resume (PDF)](https://github.com/yelessov/Yelessov_cv/blob/main/cv_abu%20(1).pdf)
 
 Welcome to my portfolio. I specialize in building end-to-end data pipelines, turning complex, messy datasets into clean, actionable business insights using SQL, Python, and Tableau.
+
+## 🛠 Technical Skills
+* **Languages & Databases:** SQL (MySQL, PostgreSQL), Python (Pandas, NumPy)
+* **Data Visualization & BI:** Tableau Public, Seaborn, Matplotlib
+* **Core Competencies:** ETL Pipeline Design, Exploratory Data Analysis (EDA), Statistical Correlation, Data Cleaning & Standardization, Relational Data Modeling
+* **Developer Tools:** Git, GitHub, Jupyter Notebooks
 
 ---
 
 ## Featured Projects
 
 ### 🏡 NYC Airbnb Analytics Pipeline (SQL & Python)
-**[View GitHub Repository](https://github.com/yelessov/Data_Cleaning_AirBnb)**
+**[View GitHub Repository](https://github.com/yelessov/Data_Cleaning_AirBnb)** | **[View Jupyter Notebook (.ipynb) ↗](https://github.com/yelessov/Data_Cleaning_AirBnb/blob/main/airbnb_analysis.ipynb)**
 
 An end-to-end data engineering and exploratory data analysis (EDA) pipeline processing over 102,000 rows of raw Airbnb market data. 
 * **The Objective:** To mathematically determine if pricing, location, or host characteristics correlate with guest satisfaction and booking availability.
